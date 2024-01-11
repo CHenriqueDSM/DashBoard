@@ -1,2 +1,2 @@
 # DashBoard
-DashBoard responsivo
+DashBoard responsivo feito em html, Css e Javascript
